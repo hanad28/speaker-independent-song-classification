@@ -60,13 +60,13 @@ Given a 10-second audio clip, predict which of the following eight songs it repr
 
 The overall workflow is:
 
-**Raw audio**  
-→ **Normalisation**  
-→ **Feature extraction**  
-→ **Feature scaling**  
-→ **Model training and validation**  
-→ **Final model selection**  
-→ **Held-out test evaluation**
+- **Raw audio**
+- **Normalisation**
+- **Feature extraction**
+- **Feature scaling**
+- **Model training and validation**
+- **Final model selection**
+- **Held-out test evaluation**
 
 ## Preprocessing
 
