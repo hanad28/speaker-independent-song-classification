@@ -47,14 +47,14 @@ This creates a balanced multiclass problem while still preserving substantial re
 
 Given a 10-second audio clip, predict which of the following eight songs it represents:
 
-- Feeling
-- Friend
-- Happy
-- Married
-- Necessities
-- NewYork
-- RememberMe
-- TryEverything
+- Despicable Me (Happy): https://youtu.be/MOWDb2TBYDg?t=28
+- Zootropolis (TryEverything): https://youtu.be/c6rP-YP4c5I?list=RDc6rP-YP4c5I&t=65 
+- Coco (RememberMe): https://youtu.be/KP_XkN2v7OM?list=RDKP_XkN2v7OM&t=26 
+- Madagascar (NewYork): https://www.youtube.com/watch?v=le1QF3uoQNg&t=16s 
+- Toy Story (Friend): https://youtu.be/0hG-2tQtdlE?list=RD0hG-2tQtdlE&t=10 
+- Jungle Book (Necessities): https://youtu.be/6BH-Rxd-NBo 
+- Trolls (Feeling): https://youtu.be/oWgTqLCLE8k?t=45 
+- Up (Married): https://youtu.be/S1uWHjhluTI?t=10
 
 ## Project Pipeline
 
